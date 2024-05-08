@@ -158,10 +158,23 @@ button:hover {
     margin-bottom: 5px;
 }
 
-@media screen and (min-width: 375px) and (max-width: 768px) {
+@media  (max-width: 375px) {
     .card-Rating,
-    .card-ThankYou{
+    .card-ThankYou {
         width: 90%;
+    }
+}
+@media  (max-width: 425px) {
+    .card-Rating,
+    .card-ThankYou {
+        width: 90%;
+    }
+}
+@media  screen and (min-width: 426px) and (max-width: 1024px)
+{
+    .card-Rating,
+    .card-ThankYou {
+        width: 40%;
     }
 }
 

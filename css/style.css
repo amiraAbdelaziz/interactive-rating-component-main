@@ -158,15 +158,10 @@ button:hover {
     margin-bottom: 5px;
 }
 
-@media (max-width: 375px) {
+@media (min-width: 375px) and (max-width: 768){
     .card-Rating,
     .card-ThankYou {
         width: 90%;
     }
 }
-@media (max-width: 768) {
-    .card-Rating,
-    .card-ThankYou {
-        width: 25%;
-    }
-}
+

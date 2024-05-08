@@ -161,12 +161,12 @@ button:hover {
 @media (max-width: 375px) {
     .card-Rating,
     .card-ThankYou {
-        width: 100%;
+        width: 90%;
     }
 }
 @media (max-width: 768) {
     .card-Rating,
     .card-ThankYou {
-        width: 25%%;
+        width: 25%;
     }
 }

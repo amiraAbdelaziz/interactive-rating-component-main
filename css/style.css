@@ -158,7 +158,7 @@ button:hover {
     margin-bottom: 5px;
 }
 
-@media screen and (min-width: 375px) and (max-width: 425px) {
+@media screen and (min-width: 375px) and (max-width: 768px) {
     .card-Rating,
     .card-ThankYou{
         width: 90%;

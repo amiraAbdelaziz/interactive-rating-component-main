@@ -164,3 +164,9 @@ button:hover {
         width: 100%;
     }
 }
+@media (max-width: 768) {
+    .card-Rating,
+    .card-ThankYou {
+        width: 25%%;
+    }
+}
